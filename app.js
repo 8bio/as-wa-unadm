@@ -177,8 +177,6 @@ const withOutSession = () => {
         '🙌 El core de whatsapp se esta actualizando',
         '🙌 para proximamente dar paso al multi-device',
         '🙌 falta poco si quieres estar al pendiente unete',
-        '🙌 http://t.me/leifermendez',
-        '________________________',
     ].join('\n'));
 
     client = new Client({
