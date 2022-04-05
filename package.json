@@ -24,11 +24,11 @@
     "qr-image": "^3.2.0",
     "qrcode-terminal": "^0.12.0",
     "socket.io": "^4.4.1",
-    "whatsapp-web.js": "^1.16.4",
+    "whatsapp-web.js": "^1.16.5",
     "xlsx": "^0.18.3"
   },
   "devDependencies": {
-    "pm2": "^5.1.2",
+    "pm2": "^5.2.0",
     "prettier": "2.5.1"
   },
   "engines": {
